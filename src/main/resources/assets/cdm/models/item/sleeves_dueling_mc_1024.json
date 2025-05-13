@@ -1,0 +1,6 @@
+{
+  "parent": "cdm:item/sleeves_dueling_mc",
+  "textures": {
+    "layer0": "cdm:item/1024/sleeves_dueling_mc"
+  }
+}
