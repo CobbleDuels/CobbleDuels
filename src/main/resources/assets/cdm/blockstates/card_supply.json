@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "cdm:block/card_supply" }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "cdm:item/sleeves_green",
+  "textures": {
+    "layer0": "cdm:item/128/sleeves_green"
+  }
+}

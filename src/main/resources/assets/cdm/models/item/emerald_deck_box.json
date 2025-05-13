@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "cdm:item/emerald_deck_box"
+    }
+}
