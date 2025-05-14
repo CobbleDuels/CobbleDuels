@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "cobbleduels:block/duel_playmat" },
+    "facing=south": { "model": "cobbleduels:block/duel_playmat", "y": 180 },
+    "facing=west":  { "model": "cobbleduels:block/duel_playmat", "y": 270 },
+    "facing=east":  { "model": "cobbleduels:block/duel_playmat", "y": 90 }
+  }
+}

@@ -9,7 +9,7 @@
       "item": "minecraft:red_concrete"
     },
     "P": {
-      "item": "cdm:duel_playmat"
+      "item": "cobbleduels:duel_playmat"
     },
     "B": {
       "item": "minecraft:blue_concrete"
@@ -19,7 +19,7 @@
     }
   },
   "result": {
-    "item": "cdm:duel_table",
+    "item": "cobbleduels:duel_table",
     "count": 1
   }
 }
