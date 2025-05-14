@@ -1,6 +1,0 @@
-{
-  "parent": "cdm:item/sleeves_destiny_hero",
-  "textures": {
-    "layer0": "cdm:item/256/sleeves_destiny_hero"
-  }
-}

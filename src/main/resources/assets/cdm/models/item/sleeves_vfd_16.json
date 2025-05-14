@@ -1,6 +1,0 @@
-{
-  "parent": "cdm:item/sleeves_vfd",
-  "textures": {
-    "layer0": "cdm:item/16/sleeves_vfd"
-  }
-}

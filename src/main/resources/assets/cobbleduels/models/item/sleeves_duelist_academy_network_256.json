@@ -1,0 +1,6 @@
+{
+  "parent": "cobbleduels:item/sleeves_duelist_academy_network",
+  "textures": {
+    "layer0": "cobbleduels:item/256/sleeves_duelist_academy_network"
+  }
+}

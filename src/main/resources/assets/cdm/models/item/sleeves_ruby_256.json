@@ -1,6 +1,0 @@
-{
-  "parent": "cdm:item/sleeves_ruby",
-  "textures": {
-    "layer0": "cdm:item/256/sleeves_ruby"
-  }
-}

@@ -1,0 +1,6 @@
+{
+  "parent": "cobbleduels:item/sleeves_p_1",
+  "textures": {
+    "layer0": "cobbleduels:item/1024/sleeves_p_1"
+  }
+}

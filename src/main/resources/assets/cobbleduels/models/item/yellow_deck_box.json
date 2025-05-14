@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "cobbleduels:item/yellow_deck_box"
+    }
+}

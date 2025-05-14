@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "cdm:block/duel_playmat" },
-    "facing=south": { "model": "cdm:block/duel_playmat", "y": 180 },
-    "facing=west":  { "model": "cdm:block/duel_playmat", "y": 270 },
-    "facing=east":  { "model": "cdm:block/duel_playmat", "y": 90 }
-  }
-}
