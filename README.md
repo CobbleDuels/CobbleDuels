@@ -19,7 +19,7 @@ This mod takes inspiration from [YgoDuelingMod](https://github.com/CAS-ual-TY/Yg
 ## 🛠 Current Progress
 
 - ✅ Project environment set up using **NeoGradle 1.21.1 + NeoForge**
-- ✅ All 3D models used for test, textures, and resource folders are in place and organized
+- ✅ All textures, and resource folders are in place and organized
 - ⚠️ No code implementation yet — mechanics and logic are still to be developed
 - 🗂 This repo currently serves as the **starting structure** for future development
 
