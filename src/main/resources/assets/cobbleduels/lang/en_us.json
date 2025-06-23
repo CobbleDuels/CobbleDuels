@@ -230,5 +230,6 @@
   "actionIcon.cobbleduels.special_summon_token_atk": "Special Summon Token ATK",
   "actionIcon.cobbleduels.special_summon_token_def": "Special Summon Token DEF",
   "actionIcon.cobbleduels.remove_token_atk": "Remove Token",
-  "actionIcon.cobbleduels.remove_token_def": "Remove Token"
+  "actionIcon.cobbleduels.remove_token_def": "Remove Token",
+  "entity.cobbleduels.darkmagician":"Dark Magician"
 }
